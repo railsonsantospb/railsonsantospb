@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java | Python | Flutter | Javascript - DevOps
 ---------------------------------------------
 
-Formado em computação e com experiências técnicas, sou desenvolvedor de sistemas, desde aplicações báscias até intermediárias, com o objetivo de utilizar sempre as melhores tecnologias e entregar o melhor produto.
+Formado em computação e com experiências técnicas, sou desenvolvedor de sistemas, desde aplicações báscias até intermediárias, com o objetivo de utilizar sempre as melhores tecnologias e entregar o melhor resultado.
 
 * 🌍  I'm based in https://www.linkedin.com/in/railson-santos-031755112/
 * ✉️  You can contact me at [railsonsantospb@gmail.com](mailto:railsonsantospb@gmail.com)
